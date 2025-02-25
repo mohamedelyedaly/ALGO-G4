@@ -351,8 +351,9 @@ In python when statement is required (after semicolon), but we don't like to exe
 for number in range(6):
     pass
 ```
-```py
+
 ```
+EXercice decours
 n=int(input("entrer un nombre : "))
 for i in range(n):
   fiche ={
@@ -366,7 +367,6 @@ for i in range(n):
       s=s+x
   moyenne=s/6
   print(moyenne)
-
 ```
 
 🌕 You established a big milestone, you are unstoppable. Keep going! You have just completed day 10 challenges and you are 10 steps a head in to your way to greatness. Now do some exercises for your brain and muscles.
